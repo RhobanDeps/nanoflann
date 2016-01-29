@@ -1,4 +1,4 @@
 {
     "name": "rhobandeps/nanoflann",
-    "include": "include"
+    "includes": "include"
 }
